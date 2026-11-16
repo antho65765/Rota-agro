@@ -1,0 +1,6 @@
+{
+  "name": "ROTA-AGRO IA — Resiliencia Agrícola desde el Espacio hasta la Parcela",
+  "description": "Herramienta de apoyo a la toma de decisiones que utiliza observaciones de la Tierra de la NASA (SMAP, MODIS, Landsat, ECOSTRESS, GPM) junto con información local del suelo y prioridades del agricultor para explorar rotaciones de cultivos que conservan el agua, fortalecen la salud del suelo y fomentan la resiliencia climática.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

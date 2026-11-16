@@ -1,0 +1,24 @@
+{
+  "name": "ROTA-AGRO — Resiliencia Agrícola desde el Espacio hasta la Parcela",
+  "short_name": "ROTA-AGRO",
+  "description": "Herramienta de apoyo a la toma de decisiones agrícolas con datos satelitales de la NASA e información local del suelo.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0B1610",
+  "background_color": "#0B1610",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/assets/aistudio/IMG-20261115-WA0010_98e8c6d7.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/IMG-20261115-WA0010_98e8c6d7.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
